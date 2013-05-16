@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<human>
+	<people id="1">
+		<name></name>
+		<age></age>
+		<phone></phone>
+		<addresses>
+			<address>
+				<street></street>
+				<city></city>
+			</address>
+		</addresses>
+	</people>
+	<people id="2">
+		<name></name>
+		<age></age>
+		<phone></phone>
+		<addresses>
+			<address>
+				<street></street>
+				<city></city>
+			</address>
+			<address>
+				<street></street>
+				<city></city>
+			</address>
+		</addresses>
+	</people>
+</human>
